@@ -1,3 +1,5 @@
+//this is the comment to learn the git clone
+
 package com.sn.softwaretesting;
 
 import static org.junit.Assert.*;
